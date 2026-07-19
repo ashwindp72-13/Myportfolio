@@ -1,0 +1,6 @@
+{
+  "name": "Ashwin D P - Interactive Resume Portfolio",
+  "description": "An interactive, elegant resume portfolio for Ashwin D P, showcasing professional experience at CAMS, data analytics skills, an interactive survey project, and customized server-side Gemini AI features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
